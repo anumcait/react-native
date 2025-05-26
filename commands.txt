@@ -1,0 +1,60 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDXqS5WbU316Z8UoCTpkx5Kw5TX8qJyv-U",
+  authDomain: "signinapp-cc647.firebaseapp.com",
+  projectId: "signinapp-cc647",
+  storageBucket: "signinapp-cc647.firebasestorage.app",
+  messagingSenderId: "167626070239",
+  appId: "1:167626070239:web:2410caf6f2852aed25b16a",
+  measurementId: "G-QN87VN11JK"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+npm install firebase
+
+npm install firebase @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons
+
+
+npx @react-native-community/cli init <APP_NAME>
+
+
+cd android
+./gradlew assembleRelease
+
+npm install react-native-sqlite-storage
+
+cd android
+./gradlew clean
+
+npx react-native start --reset-cache
+
+adb devices
+
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyC7Yf0RdAie7RfcNmJEWhH9SdcwKTjgYN4",
+  authDomain: "fir-authapp-4d1a0.firebaseapp.com",
+  projectId: "fir-authapp-4d1a0",
+  storageBucket: "fir-authapp-4d1a0.firebasestorage.app",
+  messagingSenderId: "792581643455",
+  appId: "1:792581643455:web:9f6e2f86113ad38e4efa0a"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
