@@ -26,7 +26,7 @@ _Add screenshots here after running the app:_
 - Cart Page
 
 ```markdown
-./screenshots/output.gif
+![Output](./screenshots/output.gif)
 
 🛠️ Tech Stack
 React Native
