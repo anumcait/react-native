@@ -29,7 +29,9 @@ You can save screenshots in a `/screenshots` folder and embed them here using:
 
 ```markdown
 ![Login Screen](./screenshots/login.png)
+![alt text](image.png)
 ![Home Screen](./screenshots/home.png)
+![alt text](image-1.png)
 🛠️ Tech Stack
 React Native
 
@@ -43,9 +45,6 @@ React Native Vector Icons
 
 🚀 Getting Started
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/anumcait/react-native.git
 cd react-native/LoginApp
 npm install
