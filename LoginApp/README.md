@@ -24,9 +24,9 @@ _Add screenshots here after running the app:_
 - Login Screen  
 - Product Listing Page  
 - Cart Page
-
-```markdown
 ![Output](https://github.com/anumcait/react-native/blob/master/LoginApp/screenshots/output.gif?raw=true)
+```markdown
+
 
 🛠️ Tech Stack
 React Native
