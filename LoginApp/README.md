@@ -1,6 +1,6 @@
 # 🛍️ Fashion Shopping App
 
-A clean and functional **React Native** mobile shopping app integrated with **Firebase Authentication** (Email & Google Sign-In), using **FakeStoreAPI** to display real-time fashion products.
+A clean and functional **React Native** mobile shopping app integrated with **Firebase Authentication** (Email Enable), using **FakeStoreAPI** to display real-time fashion products.
 
 > 📍 GitHub Repo: [anumcait/react-native/LoginApp](https://github.com/anumcait/react-native/tree/master/LoginApp)
 
@@ -22,6 +22,7 @@ A clean and functional **React Native** mobile shopping app integrated with **Fi
 _Here is entire workflow :: running the app:_
 
 - Login Screen  
+- Home Screen
 - Product Listing Page  
 - Cart Page
 <img src="./screenshots/output.gif" height="500" alt="App Walkthrough" />
