@@ -19,14 +19,14 @@ A clean and functional **React Native** mobile shopping app integrated with **Fi
 
 ## 📸 Screenshots
 
-_Add screenshots here after running the app:_
+_Here is entire workflow :: running the app:_
 
 - Login Screen  
 - Product Listing Page  
 - Cart Page
-![Output](https://github.com/anumcait/react-native/blob/master/LoginApp/screenshots/output.gif?raw=true)
-```markdown
+<img src="./screenshots/output.gif" height="300" alt="App Walkthrough" />
 
+```markdown
 
 🛠️ Tech Stack
 React Native
