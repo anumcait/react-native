@@ -24,7 +24,7 @@ _Here is entire workflow :: running the app:_
 - Login Screen  
 - Product Listing Page  
 - Cart Page
-<img src="./screenshots/output.gif" height="300" alt="App Walkthrough" />
+<img src="./screenshots/output.gif" height="500" alt="App Walkthrough" />
 
 ```markdown
 
