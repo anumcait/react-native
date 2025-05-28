@@ -25,13 +25,9 @@ _Add screenshots here after running the app:_
 - Product Listing Page  
 - Cart Page
 
-You can save screenshots in a `/screenshots` folder and embed them here using:
-
 ```markdown
-![Login Screen](./screenshots/login.png)
-![alt text](image.png)
-![Home Screen](./screenshots/home.png)
-![alt text](image-1.png)
+./screenshots/output.gif
+
 🛠️ Tech Stack
 React Native
 
