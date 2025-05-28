@@ -29,14 +29,11 @@ _Here is entire workflow :: running the app:_
 ```markdown
 
 🛠️ Tech Stack
+
 React Native
-
 Firebase Authentication
-
 FakeStoreAPI
-
 React Navigation
-
 React Native Vector Icons
 
 🚀 Getting Started
@@ -84,9 +81,9 @@ Unsplash – for beautiful background images
 Anumcait
 DevOps Engineer | ERP Application Developer
 
-🔗 LinkedIn
+🔗 LinkedIn : www.linkedin.com/in/alivenidevops
 
-📂 GitHub
+📂 GitHub : https://github.com/anumcait
 
 🏷 License
 This project is licensed under the MIT License
